@@ -1,2 +1,2 @@
 # tod-tgm.github.io
-LiveStream from IT Department
+LiveStream from TGM's IT Department
